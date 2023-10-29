@@ -1,0 +1,7 @@
+bunker:
+  host: "Your server host"
+  username: "Your server username"
+  passwd: "Your server Password"
+  port: "Your server access port"
+schizo:
+  token: "Your bot token"
